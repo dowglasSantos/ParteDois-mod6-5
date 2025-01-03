@@ -1,7 +1,7 @@
 # Segunda parte do exercício.
 #### Rotina de Acordar
 *
-* Inicio do Programa
+Inicio do Programa
 *
 * Acordar
 *   se (horario <= 06:30h da manha)
